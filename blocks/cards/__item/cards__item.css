@@ -1,0 +1,14 @@
+.cards__item{
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+/*  justify-content: space-between;*/
+  flex-wrap: wrap;
+  margin-right:100px;
+}
+
+.cards_item:nth-of-type(3n){
+  margin-right: 0;
+  border:1px solid red;
+}
