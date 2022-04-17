@@ -9,11 +9,3 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
   color:#000;
 }
-
-.link {
-  transition: opacity 0.4s ease-out;
-}
-.link:hover{
-  opacity:.8;
-}
-
